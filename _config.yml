@@ -1,3 +1,4 @@
 title: Welcome to Sesha's homepage!
-theme: jekyll-theme-cayman
+markdown: kramdown
+remote-theme: minima
 description: A collection of my projects
